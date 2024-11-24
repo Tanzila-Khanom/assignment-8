@@ -1,0 +1,15 @@
+body{background-color:aqua;}
+.navber {display: flex; align-items: center; justify-content: space-between;}
+.navber ul{display: flex; align-items: center; justify-content: space-between; list-style: none;}
+.navber ul li{ margin-right: 125px; }
+.navber ul li a{text-decoration: none;}
+.btn-contact{font-size: 20px; padding: 15px;background:rgb(222,237,237); color: #3074e3; border: solid#3074e3 }
+.divber-1{text-align: center; margin-top: 135px; font-size: 20px;  }
+.divber-2{text-align: center; margin-top: 20px; font-size: 80px; font-family: "sans",serif;font-weight: 700;  }
+.divber-3{ text-align: center; margin-top: 25px; font-size: 30px; font-family: "lora",serif;font-weight: 100;    }
+.form-ber{text-align: center; padding: 20px;  }
+.b-t-n{background-color: orangered;}
+.form-2{ text-align: center;font-size: 15px; }
+.div1{ display: flex;  justify-content: space-between; padding: 30px;  margin-right: 125px;  }
+.div-icon-67{ display: flex;}
+.d-i-v-1{ font-size: 25px;}
